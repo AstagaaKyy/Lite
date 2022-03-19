@@ -23,10 +23,10 @@
             ( pip2 install requests
             ( pip2 install futures
             ( pip2 install bs4
-            ( git clone https://github.com/Jeeck-XN/Lite
+            ( git clone https://github.com/AstagaKyy/Lite
             ( cd Lite
             ( git pull
-            ( python2 Lite.py
+            ( python2 maling.py
             
 <p align="center">
 <i> <b>  Informasi</b> </i>
